@@ -1,0 +1,22 @@
+{
+  "name": "voter",
+  "version": "0.0.0-alpha",
+  "description": "A bot that makes it easy to vote on stuff in discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocpu/Voter.git"
+  },
+  "author": "Martin Hövre <martin.hovre@opencubes.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocpu/Voter/issues"
+  },
+  "homepage": "https://github.com/ocpu/Voter#readme",
+  "dependencies": {
+    "eris": "^0.7.2"
+  }
+}

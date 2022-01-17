@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ocpu/Voter#readme",
   "dependencies": {
-    "eris": "^0.7.2"
+    "eris": "^0.8.6"
   }
 }
